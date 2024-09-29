@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631566791724",
+    "project_id": "mynotes-dff19",
+    "storage_bucket": "mynotes-dff19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631566791724:android:a2403e0609e609a4b84d89",
+        "android_client_info": {
+          "package_name": "com.cuneyt.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDhfxDOtM6yJmt46THxqh7hrPtn81PlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

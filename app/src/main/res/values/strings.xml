@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="db_note">Notes</string>
+</resources>
